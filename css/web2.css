@@ -19,6 +19,26 @@
 .auto{
     animation:1s slide-auto forwards;
 } */
-.navbar-nav .nav-item {
+ 
+.oswald-uniquifier {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+}
+ .navbar-nav .nav-item {
     padding:10px 20px;
+ }
+ .navbar-nav li a{
+    font-family: "Oswald", sans-serif;
+    color: white;
+ }
+.pd-p1{
+    padding:88px 0px;
+}
+.bd-p1{
+    border: 1px solid #efefef;
+}
+.ml20{
+    margin-left: 20;
 }
